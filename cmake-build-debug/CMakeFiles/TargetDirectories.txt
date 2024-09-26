@@ -1,0 +1,3 @@
+C:/Users/super/CLionProjects/SFML Audio Player/cmake-build-debug/CMakeFiles/SFML_Audio_Player.dir
+C:/Users/super/CLionProjects/SFML Audio Player/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/super/CLionProjects/SFML Audio Player/cmake-build-debug/CMakeFiles/rebuild_cache.dir

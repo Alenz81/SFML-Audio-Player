@@ -1,4 +1,4 @@
-I used a library called SFML in the creation of this project
+**I used a library called SFML in the creation of this project**
 
 https://www.sfml-dev.org/
 
